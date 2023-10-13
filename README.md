@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![beep](https://gallery.crd.co/assets/images/gallery11/d9839ccd_original.png?v=758f1f62)
 <!--
 **JestersPrivilege/JestersPrivilege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
